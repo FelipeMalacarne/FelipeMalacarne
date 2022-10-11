@@ -1,6 +1,20 @@
-# Hi there 👋
-## My Skills
+<h1>
+    <center>
+        hey there
+        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    </center>
+
+</h1>
+
+## My Skills :
+
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,nodejs,python)](https://skills.thijs.gg)
+
+---
+
+## My Stats :
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeMalacarne&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **FelipeMalacarne/FelipeMalacarne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
