@@ -1,6 +1,6 @@
-### Hi there 👋
-
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,python)](https://skills.thijs.gg)
+# Hi there 👋
+## My Skills
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,nodejs,python)](https://skills.thijs.gg)
 
 <!--
 **FelipeMalacarne/FelipeMalacarne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
