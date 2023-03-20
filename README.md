@@ -6,7 +6,7 @@
 
 ## My Skills :
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,nodejs,react,java,postgres,python)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,ts,react,java,postgres,python)](https://skills.thijs.gg)
 
 ---
 
