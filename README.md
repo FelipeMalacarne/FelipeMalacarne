@@ -6,7 +6,7 @@
 
 ## My Skills :
 
-[![My Skills](https://skills.thijs.gg/icons?i=ts,react,java,postgres,python)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=laravel,spring,java,graphql,postgres,react,ts,docker,go,htmx,neovim)](https://skills.thijs.gg)
 
 ---
 
